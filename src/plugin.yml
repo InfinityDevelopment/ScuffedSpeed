@@ -1,0 +1,9 @@
+name: ScuffedSpeed
+main: us.infinitydev.ss.ScuffedSpeedCore
+version: 1.0
+author: SentinelGaminng
+description: Basic speed toggling command.
+commands:
+  speed:
+    description: Multipurpose main command.
+    usage: /<command>
