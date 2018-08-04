@@ -1,0 +1,3 @@
+#The prefix will be placed directly before any message in this config. You do not need to add a space after the prefix, it will automatically be added by the plugin
+#To add color codes to the prefix, use the codes under the "Color codes" section on this page: https://minecraft.gamepedia.com/Formatting_codes
+#prefix defined below + space + plugin message
